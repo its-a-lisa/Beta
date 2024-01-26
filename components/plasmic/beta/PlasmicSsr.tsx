@@ -420,7 +420,7 @@ function PlasmicSsr__RenderFunc(props: {
                           <FormItemWrapper
                             className={classNames(
                               "__wab_instance",
-                              sty.formField__mulFs
+                              sty.formField__il6Zd
                             )}
                             label={"Description"}
                             name={"description"}
@@ -436,14 +436,14 @@ function PlasmicSsr__RenderFunc(props: {
                             children={null}
                             className={classNames(
                               "__wab_instance",
-                              sty.formField__eEjyC
+                              sty.formField__gZ9PV
                             )}
                             label={
                               <div
                                 className={classNames(
                                   projectcss.all,
                                   projectcss.__wab_text,
-                                  sty.text__atYxc
+                                  sty.text__wM3R
                                 )}
                               >
                                 {"Label"}
@@ -520,7 +520,7 @@ function PlasmicSsr__RenderFunc(props: {
                               className={classNames(
                                 projectcss.all,
                                 projectcss.__wab_text,
-                                sty.text__bE0Pp
+                                sty.text___6Zv9M
                               )}
                             >
                               {"Create new todo"}
